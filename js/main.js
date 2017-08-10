@@ -5,7 +5,7 @@ lightbox.option({
 });
 
 
-
+// Search
 $("input[name='userInput']").keyup(function () {
   var search = $(this).val().toLowerCase();
 
