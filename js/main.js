@@ -18,5 +18,5 @@ $("input[name='userInput']").keyup(function () {
     } else {
       $(this).hide();
     }
-  })
+  });
 });
