@@ -92,10 +92,6 @@ input:focus{
   line-height: 1.5em
 }
 
-.lb-closeContainer a.lb-close {
-  display: none;
-}
-
 /******************
   Media Queries
 *******************/
@@ -148,6 +144,10 @@ input:focus{
       top: 0;
       opacity: 1;
       margin: 100px auto 0;
+    }
+
+    .lb-closeContainer a.lb-close {
+      display: none;
     }
 
 
