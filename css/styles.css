@@ -40,8 +40,14 @@ input:focus{
 /******************
   Gallery
 *******************/
+
 .main-content {
-  max-width: 90%;
+  max-width: 1250px;
+  margin: auto;
+}
+
+.gallery-list {
+  max-width: 95%;
   margin: 0 auto 30px;
 }
 
